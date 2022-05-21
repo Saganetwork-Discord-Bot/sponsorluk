@@ -6,9 +6,9 @@
 2. Herhangi bir ToS kuralını ihlal etmemesi
 3. Botun Discord tarafından onaylanması
 4. Botun quick.db gibi json ile veri saklayan databaseler kullanmaması gereklidir
-5. Privacy policy yani gizlilik sözleşmesi ile ilgili bir metin bulunması ve bunun bizim ile paylaşılması gereklidir
-6. Botun kullandığı kütüphanenin son sürüm olması yani discordun istediği şekilde olması gereklidir
-7. Botun komutlarında herhangi troll içeren sahte nitro hediyesi/scam link tarzında şeyler bulunmamalıdır
+6. Privacy policy yani gizlilik sözleşmesi ile ilgili bir metin bulunması ve bunun bizim ile paylaşılması gereklidir
+7. Botun kullandığı kütüphanenin son sürüm olması yani discordun istediği şekilde olması gereklidir
+8. Botun komutlarında herhangi troll içeren sahte nitro hediyesi/scam link tarzında şeyler bulunmamalıdır
 
 > %70-50 Arası Sponsorluk İçin Gerekli Şartlar
 
@@ -29,3 +29,5 @@
 5. Privacy policy yani gizlilik sözleşmesi ile ilgili bir metin bulunması ve bunun bizim ile paylaşılması gereklidir
 6. Botun kullandığı kütüphanenin son sürüm olması yani discordun istediği şekilde olması gereklidir
 7. Botun komutlarında herhangi troll içeren sahte nitro hediyesi/scam link tarzında şeyler bulunmamalıdır
+
+**Sponsorluk anlaşması kabul edildikten sonra sponsor komudu eklenmeli ve saganetwork'ü temsil eden bir yazı yazılmalıdır**
